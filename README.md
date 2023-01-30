@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This İs a WareHouse Web Site
+WareHouse Web Site performs:
+-Product Entry
+-Show Products List
+-Product Output
+
+WareHouse Web site includes:
+- React - Next.js
+- Json File as a Data Base
+- Server-Side Rendering
+- Authorization and Authentication with Jwt
+- session management with cookies
+
 
 ## Getting Started
 
