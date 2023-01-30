@@ -1,10 +1,10 @@
-This İs a WareHouse Web Site
+𝗧𝗵𝗶𝘀 𝗜̇𝘀 𝗮 𝗪𝗮𝗿𝗲𝗛𝗼𝘂𝘀𝗲 𝗪𝗲𝗯 𝗦𝗶𝘁𝗲
 WareHouse Web Site performs:
 -Product Entry
 -Show Products List
 -Product Output
 
-WareHouse Web site includes:
+𝙒𝙖𝙧𝙚𝙃𝙤𝙪𝙨𝙚 𝙒𝙚𝙗 𝙨𝙞𝙩𝙚 𝙞𝙣𝙘𝙡𝙪𝙙𝙚𝙨:
 - React - Next.js
 - Json File as a Data Base
 - Server-Side Rendering
