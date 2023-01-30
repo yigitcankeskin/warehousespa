@@ -1,0 +1,7 @@
+[
+  { "productCode": "P001", "productDesc": "Product 1", "productPcs": 10 },
+  { "productCode": "P002", "productDesc": "Product 2", "productPcs": 20 },
+  { "productCode": "P003", "productDesc": "Product 3 ", "productPcs": 55 },
+  { "productCode": "P004", "productDesc": "Product 4", "productPcs": 55 },
+  { "productCode": "P005", "productDesc": "Product 5", "productPcs": 123 }
+]
